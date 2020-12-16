@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main(){
+    float W, m, g;
+    g= 9.8;
+    printf("Hola buen dia, ingresa tu masa");
+    scanf("%f", &m);
+    W = (m*g);
+    printf("\n Su fuerza de atraccion(w) es de: %.2f", W);
+
+    return 0;
+}
