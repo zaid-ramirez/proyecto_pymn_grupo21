@@ -27,7 +27,7 @@ Contiene las practicas elaboradas por el alumno Ramirez Galvez Zaid Alexander.
 
 >[PRACTICA 11](https://github.com/zaid-ramirez/proyecto_pymn_grupo21/tree/main/PRACTICA%2011)
 
-(https://media.giphy.com/media/QuIxFwQo0RMT1tASlV/giphy.gif)
+![design](https://media.giphy.com/media/QuIxFwQo0RMT1tASlV/giphy.gif)
 
 Gracias por su atención.
 
